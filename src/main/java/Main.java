@@ -8,6 +8,7 @@ import java.io.IOException;
 public class Main {
 
     public static void main(String[] args) {
+
         try {
             String data = FileUtils.readFileToString(
                     new File("./src/main/resources/file.txt"),
@@ -23,6 +24,8 @@ public class Main {
         Logger logger = LogManager.getLogger(Main.class);
         logger.info("This is an info");
         logger.error("This is an error");
+
+        logger.info("Geia me lene Grigori");
     }
 
 }
