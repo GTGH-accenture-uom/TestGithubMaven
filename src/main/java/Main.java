@@ -23,6 +23,9 @@ public class Main {
         Logger logger = LogManager.getLogger(Main.class);
         logger.info("This is an info");
         logger.error("This is an error");
+
+
+        logger.info("Thavma, egine to commit!");
     }
 
 }
