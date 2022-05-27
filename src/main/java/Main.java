@@ -18,7 +18,7 @@ public class Main {
             e.printStackTrace();
         }
 
-        System.out.println("dd");
+        System.out.println("dfd");
         //Log4j
         Logger logger = LogManager.getLogger(Main.class);
         logger.info("This is an info");
