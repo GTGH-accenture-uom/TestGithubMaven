@@ -20,7 +20,7 @@ public class Main {
         }
         System.out.println("Test for commit and Push");
         System.out.println("Hello Maria");
-
+        System.out.println("A change have been made by vasileios kotaidis");
         System.out.println("rouvass");
         //Log4j
         Logger logger = LogManager.getLogger(Main.class);
