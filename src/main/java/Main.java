@@ -19,6 +19,8 @@ public class Main {
             e.printStackTrace();
         }
         System.out.println("Test for commit and Push");
+        System.out.println("Hello Maria");
+
 
         //Log4j
         Logger logger = LogManager.getLogger(Main.class);
