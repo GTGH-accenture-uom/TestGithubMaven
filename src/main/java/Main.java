@@ -18,7 +18,7 @@ public class Main {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
+        System.out.println("Test for commit and Push");
 
         //Log4j
         Logger logger = LogManager.getLogger(Main.class);
