@@ -21,7 +21,7 @@ public class Main {
         System.out.println("Test for commit and Push");
         System.out.println("Hello Maria");
 
-        System.out.println("rouvas");
+        System.out.println("rouvass");
         //Log4j
         Logger logger = LogManager.getLogger(Main.class);
         logger.info("This is an info");
