@@ -22,6 +22,7 @@ public class Main {
         System.out.println("Hello Maria");
         System.out.println("A change have been made by vasileios kotaidis");
         System.out.println("rouvass");
+        System.out.println("eleni..");
         //Log4j
         Logger logger = LogManager.getLogger(Main.class);
         logger.info("This is an info");
